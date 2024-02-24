@@ -1,0 +1,26 @@
+.container1{
+  background-color: #F4F9FF;
+    display: flex;
+    justify-content: center;
+    /* width: 1530px; */
+    height: 500px;
+    padding: 5rem;
+}
+.Container_middle
+{
+    display: flex;
+    justify-content: space-between;
+}
+ 
+.left
+{
+    width: 500px;
+    background-color:#EEF1F6; 
+     
+}
+.Container_middle_para
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
